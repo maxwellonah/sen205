@@ -1,0 +1,3 @@
+the product owners are the ones that brings a project/product to the to be developed by the team
+the scrum master gives or assigns the task for a project to be taken up by the team which is diveded amongst them within a period of tinme given for each task
+the dev.team are ones to devolop a project given by the product owners and test quality assurance to make sure the finished product meets the standard of the product owners
